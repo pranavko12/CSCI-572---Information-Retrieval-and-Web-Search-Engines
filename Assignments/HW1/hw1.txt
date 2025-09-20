@@ -1,0 +1,6 @@
+Average percent overlap = 12.8%
+Spearman Coefficient = -6.9265
+
+Bing vs Google search Engine:
+The results indicate that the average percent overlap between Bing and Google is 12.8%, meaning that only 12.8% of the top search results from both search engines match. Additionally, the average Spearman coefficient of -6.9265 is a very low value, suggesting a strong inverse correlation or rank discrepancy between the two search engines. This implies that both the search engines rank the search results very differently, with higher ranked results in Google tending to appear lower in Bing and vice versa.
+Hence, with the low percent overlap and the highly negative Spearman coefficient, we can conclude that Bing's search engine is very different than Google's, and has performed worse in terms of result similarity and ranking alignment. 
