@@ -1,0 +1,2 @@
+# Course Outline:
+In my Information Retrieval course, we focus on three main parts: the consumer, the producer, and the content. The consumer is basically the user who asks a question or makes a query. The producer is the system or agent that takes in the query, processes it, and figures out how to respond. The content is all the raw information out there that the system draws from. What actually happens is that the user submits a query, the system processes the available content into a useful representation, and then it sends back a response to the user.
